@@ -1,0 +1,26 @@
+
+.home {
+    background-image: image("/img/Green.jpg");
+    background-size: cover;
+    padding:0;
+    align-content: center;
+}
+.home .image{
+    background-size: 400%;
+}
+
+.home h1 {
+    color: darkcyan;
+    margin-top: 0;
+}
+
+
+.home .home-text {
+    text-align: center;
+    height: 500px;
+    top: 200px;
+    left: 50%;
+    
+    padding: 20px;
+    border-radius: 6px;
+}
